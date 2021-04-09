@@ -13,3 +13,6 @@ https://github.com/HamzaNiaz963/Ionosphere-Data.git
 
 Credit Card Fraud Detection
 https://github.com/HamzaNiaz963/Credit_Card_Fraud_Detection.git
+
+Flower Recognition
+https://github.com/HamzaNiaz963/Flowers-Recognition.git
